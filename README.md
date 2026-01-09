@@ -13,3 +13,4 @@
 - <b>Day 5</b> - [Calculating Vote Distribution](https://github.com/jonnrib/100-days-of-python/tree/main/day_05)
 - <b>Day 6</b> - [Summing Current and Previous Numbers](https://github.com/jonnrib/100-days-of-python/tree/main/day_06)
 - <b>Day 7</b> - [Print 1 to N Without Spaces](https://github.com/jonnrib/100-days-of-python/tree/main/day_07)
+- <b>Day 8</b> - [Days Since Birth](https://github.com/jonnrib/100-days-of-python/tree/main/day_08)
