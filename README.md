@@ -15,3 +15,4 @@
 - <b>Day 7</b> - [Print 1 to N Without Spaces](https://github.com/jonnrib/100-days-of-python/tree/main/day_07)
 - <b>Day 8</b> - [Days Since Birth](https://github.com/jonnrib/100-days-of-python/tree/main/day_08)
 - <b>Day 9</b> - [Filtered Coordinates](https://github.com/jonnrib/100-days-of-python/tree/main/day_09)
+- <b>Day 10</b> - [Finding the Maximum Number in a List](https://github.com/jonnrib/100-days-of-python/tree/main/day_10)
