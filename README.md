@@ -17,3 +17,4 @@
 - <b>Day 9</b> - [Filtered Coordinates](https://github.com/jonnrib/100-days-of-python/tree/main/day_09)
 - <b>Day 10</b> - [Finding the Maximum Number in a List](https://github.com/jonnrib/100-days-of-python/tree/main/day_10)
 - <b>Day 11</b> - [Removing Consecutive Duplicates](https://github.com/jonnrib/100-days-of-python/tree/main/day_11)
+- <b>Day 12</b> - [Finding the Runner-Up Score](https://github.com/jonnrib/100-days-of-python/tree/main/day_12)
