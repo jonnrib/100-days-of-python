@@ -19,3 +19,4 @@
 - <b>Day 11</b> - [Removing Consecutive Duplicates](https://github.com/jonnrib/100-days-of-python/tree/main/day_11)
 - <b>Day 12</b> - [Finding the Runner-Up Score](https://github.com/jonnrib/100-days-of-python/tree/main/day_12)
 - <b>Day 13</b> - [Building Student Records](https://github.com/jonnrib/100-days-of-python/tree/main/day_13)
+- <b>Day 14</b> - [Finding the Runner-Up Grade](https://github.com/jonnrib/100-days-of-python/tree/main/day_14)
