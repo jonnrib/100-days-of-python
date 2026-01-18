@@ -22,3 +22,4 @@
 - <b>Day 14</b> - [Finding the Runner-Up Grade](https://github.com/jonnrib/100-days-of-python/tree/main/day_14)
 - <b>Day 15</b> - [Coffee Maker Class Example](https://github.com/jonnrib/100-days-of-python/tree/main/day_15)
 - <b>Day 16</b> - [Vehicle Inheritance Example](https://github.com/jonnrib/100-days-of-python/tree/main/day_16)
+- <b>Day 17</b> - [Basic Library System](https://github.com/jonnrib/100-days-of-python/tree/main/day_17)
