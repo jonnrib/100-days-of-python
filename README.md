@@ -25,3 +25,4 @@
 - <b>Day 17</b> - [Basic Library System](https://github.com/jonnrib/100-days-of-python/tree/main/day_17)
 - <b>Day 18 and 19</b> - [Library Flow Test Script](https://github.com/jonnrib/100-days-of-python/tree/main/day_18_19)
 - <b>Day 20</b> - [Finding Students with the Second Lowest Grade](https://github.com/jonnrib/100-days-of-python/tree/main/day_20)
+- <b>Day 21</b> - [Polymorphism Area Calculator](https://github.com/jonnrib/100-days-of-python/tree/main/day_21)
